@@ -1,4 +1,4 @@
-## Hi, Roy Gitonga, 👨‍🚀
+## Asalam Aleikum, Roy Gitonga, 👨‍🚀
 
 
 - BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY GRADUATE.<br/>
