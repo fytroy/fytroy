@@ -5,7 +5,7 @@
 - IT Support Specialist | Desktop Support Engineer and a Software developer at night.<p>
 - Currently an IT Support Specialist Intern at Gulf African Bank.<p>
 - I code sometimes to stay consistent.
-- My instagram page is [Instagram](https://www.instagram.com/fyt.roy//)
+- My portfolio page is [Portfolio](https://https://fytroy.github.io/roygitonga.io///)
 
 
 
