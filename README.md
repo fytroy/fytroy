@@ -5,7 +5,7 @@
 - Data Analyst | IT Support Specialist | Desktop Support Engineer and a Software developer at night.<p>
 - Currently a Data Analytics Engineer Intern at Gulf African Bank.<p>
 - I code sometimes to stay consistent.
-- Portfolio page is [MyPortfolio](https://fytroy.github.io/roygitonga.io///)
+- Portfolio page is [MyPortfolio.](https://fytroy.github.io/roygitonga.io///)
 
 
 
