@@ -2,7 +2,7 @@
 
 
 - BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY GRADUATE.<br/>
-- Data Analyst | IT Support Specialist | Business Intelligence | Proven Problem Solver in Enterprise IT Environments and a Software developer at night.<p>
+- Data Analyst | IT Support Specialist | Business Intelligence and a Software developer at night.<p>
 - Currently a Data Analytics Officer at Gulf African Bank.<p>
 - I code sometimes to stay consistent.
 - Portfolio page is [MyPortfolio.](https://fytroy.github.io/roygitonga.io///)
