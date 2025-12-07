@@ -5,7 +5,7 @@
 - Data Analyst | IT Support Specialist | Business Intelligence Developer and a Software developer at night.<p>
 - Currently a Data Analytics Officer at Gulf African Bank.<p>
 - I code sometimes to stay consistent.
-- Portfolio page is [MyPortfolio.](https://roygiotnga.vercel.app///)
+- Portfolio page is [MyPortfolio.](https://roygitonga.vercel.app///)
 
 
 
