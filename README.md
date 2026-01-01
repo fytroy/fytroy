@@ -2,7 +2,7 @@
 
 
 - BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY GRADUATE.<br/>
-- Data Analyst | IT Support Specialist | Business Intelligence Developer and a Software developer at night.<p>
+- Data Analyst | Business Intelligence Developer | IT Support Specialist and a Software developer at night.<p>
 - Currently a Data Analytics Officer at Gulf African Bank.<p>
 - I code sometimes to stay consistent.
 - Portfolio page is [MyPortfolio.](https://roygitonga.vercel.app///)
